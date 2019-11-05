@@ -1,3 +1,4 @@
+[![Build Status](https://codedev.ms/grega/Tester%20bester/_apis/build/status/greganderson.pipelines-java?branchName=master)](https://codedev.ms/grega/Tester%20bester/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
